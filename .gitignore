@@ -1,0 +1,18 @@
+# node_modules folders
+myfront/node_modules/
+myBack/node_modules/
+
+# environment variables
+myfront/.env
+myBack/.env
+
+# Next.js output
+myfront/.next/
+myfront/out/
+myfront/build/
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
